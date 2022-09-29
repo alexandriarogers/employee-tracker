@@ -1,0 +1,22 @@
+{
+  "name": "final-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandriarogers"
+  },
+  "author": "Alexandria Rogers",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.2",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1"
+  }
+}
